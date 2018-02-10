@@ -1,0 +1,28 @@
+.guessForm{
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.guessForm label{
+	display: block;
+	margin-bottom: 10px;
+}
+
+.guessForm input, .guessForm button{
+	border-radius: 5px;
+	outline: none;
+	border-style: none;	
+	padding: 5px 10px;
+}
+
+.guessForm input{
+	margin-right: 10px;
+	text-align: center;
+}
+
+.guessForm button{
+	font-weight: bold;
+	cursor: pointer;
+	box-shadow: 2px 7px 10px #504e4f;
+}

@@ -1,0 +1,14 @@
+.prevGuesses{
+	width: 100%;
+	margin: 0 auto 25px auto;
+	text-align: center;
+}
+
+.prevGuesses h3{
+	font-size: 16px;
+}
+
+.guesses{
+	list-style: none;
+	padding-left: 0;
+}

@@ -1,0 +1,16 @@
+.instruc-start-buttons{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.instruc-start-buttons button{
+	margin: 15px;
+	border-radius: 5px;
+	outline: none;
+	border-style: none;	
+	padding: 5px 10px;
+	font-weight: bolder;
+	cursor: pointer;
+	box-shadow: 2px 7px 10px #504e4f;
+}

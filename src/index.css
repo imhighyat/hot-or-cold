@@ -1,0 +1,9 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	border: none;
+	margin: 100px auto;
+	width: 80%;
+	max-width: 600px;
+	background-color: #9d9db0;
+	box-shadow: 5px 5px 10px #504e4f;
+}
